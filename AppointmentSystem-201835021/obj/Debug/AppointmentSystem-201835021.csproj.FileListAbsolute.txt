@@ -1,0 +1,15 @@
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\bin\Debug\AppointmentSystem-201835021.exe
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\bin\Debug\AppointmentSystem-201835021.exe.config
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.csproj.AssemblyReference.cache
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.Appointment.resources
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.Doc1.resources
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.mainPage.resources
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.Properties.Resources.resources
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.Staff.resources
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.csproj.GenerateResource.cache
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.exe
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem-201835021.pdb
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\bin\Debug\AppointmentSystem-201835021.pdb
+C:\Users\Yiğit Çulhaoğlu\source\repos\AppointmentSystem-201835021\AppointmentSystem-201835021\obj\Debug\AppointmentSystem_201835021.Form1.resources
